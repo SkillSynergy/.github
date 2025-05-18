@@ -1,17 +1,17 @@
-<!-- Banner / Header Image -->
-<p align="center">
-  <img src=""D:\Data\Research\MajorProject\Project\images\Banner.png"" alt="Banner image"/>
-</p>
+
+
+![Banner](https://github.com/user-attachments/assets/2a4fd0e8-9cf5-4f01-b35f-41b613ce659f)   
+
 
 # Find and Colearn
 **Transforming Solo Study into a Dynamic, Collaborative Experience**
 
----
+
 
 ## About
 Find and Colearn is a collaborative learning platform built by four Computer Science students who believe studying doesn’t have to be lonely. Our mission is simple: make it easier for students to find partners, collaborate in real time, and grow together.
 
----
+
 
 ## How It Works
 
@@ -27,7 +27,7 @@ Find and Colearn is a collaborative learning platform built by four Computer Sci
 4. **Invite Friends**  
    Want to study with people you know? Create a private room and share a link with up to three friends.
 
----
+
 
 ## Key Features
 
@@ -37,7 +37,7 @@ Find and Colearn is a collaborative learning platform built by four Computer Sci
 - 📩 **Private Study Rooms** – Invite friends and build your own study squad.
 - 📊 **Session Feedback & History** – Track who you studied with and how productive the session was.
 
----
+
 
 ## Coming Soon
 
@@ -46,11 +46,10 @@ Find and Colearn is a collaborative learning platform built by four Computer Sci
 - 🔍 AI-powered match recommendations  
 - 🎮 Gamified dashboard with badges and streaks
 
----
+
 
 ## Join Us
 We’re just getting started—and we’d love your feedback. Open an issue or contribute on GitHub to help shape the future of peer-to-peer learning.
 
-<p align="center">
+
   ![giphy](https://github.com/user-attachments/assets/205ce12f-57f6-4408-861b-9483a97e9af1)
-</p>
