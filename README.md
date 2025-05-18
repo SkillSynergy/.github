@@ -1,6 +1,6 @@
 <!-- Banner / Header Image -->
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/a4a89861-b3b4-4997-99ca-e6dabf379390)" alt="Find and Colearn Banner" width="100%" />
+  ![Banner](https://github.com/user-attachments/assets/27699efe-8dd0-4264-91e3-e0dc62f7d1ac)
 </p>
 
 # Find and Colearn
@@ -52,5 +52,5 @@ Find and Colearn is a collaborative learning platform built by four Computer Sci
 We’re just getting started—and we’d love your feedback. Open an issue or contribute on GitHub to help shape the future of peer-to-peer learning.
 
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/3f790eba-c1b0-4871-b650-ca914b257f9e)
+  ![giphy](https://github.com/user-attachments/assets/205ce12f-57f6-4408-861b-9483a97e9af1)
 </p>
